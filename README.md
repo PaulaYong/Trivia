@@ -5,8 +5,11 @@ El presente proyecto es una trivia utilizando el lenguaje python. Está juego es
 
 # Instrucciones
 1️⃣ Debes leer y responde las siguientes preguntas escribiendo la letra de la alternativa y presionando "Enter" para enviar tu respuesta.
+
 2️⃣ Tu respuesta suman puntaje.🥳
+
 3️⃣ Dale clic para empezar la diversión.[Link demo](https://replit.com/@Paula-AndreaA73/Trivia)
+
 
 # Licencia
 MIT
