@@ -1,5 +1,6 @@
-# TRIVIA SOBRE CUANTO SABES DE BACK-END 🎮 ❓
+# TRIVIA SOBRE CUANTO SABES DE BACK-END 🎮 ❓ 🎮
 El presente proyecto es una trivia utilizando el lenguaje python. Está juego es un espadio donde puedes divertirte poniendo a pruba tu conociemiento sobre Back-end.
+
 ![image](https://user-images.githubusercontent.com/98430091/190840071-95527d68-4801-4db5-a5fe-61f3898d3628.png)
 
 # Instrucciones
